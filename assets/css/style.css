@@ -1,0 +1,211 @@
+/*index html*/
+
+header {
+     padding:0px;
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+    border-bottom-color: #777777;
+    height:87px;
+}
+
+
+#name {
+    background-color: #4aaaa5;
+    color:white;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    width:25%;
+    padding:10px;
+    text-align: center;
+    float:left;
+    margin-left: 10%;
+}
+
+a {
+    text-decoration: none;
+    color: #777777;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+#pages {
+    
+    float:right;
+    margin-right:10%;
+    padding:25px;
+}
+
+.container {
+    clear:both;
+    overflow: auto;
+    border-style: solid;
+    border-color:#dddddd;
+    border-width: 100px;
+    border-top-width: 30px;
+    border-bottom-width: 80px;
+    padding: 20px;
+}
+
+.about {
+    color:#4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-left: 13px; 
+    padding-bottom: 10px; 
+    border-bottom-style: solid;
+    border-bottom-color: #777777;
+    border-bottom-width: 2px;  
+}
+
+img {
+    height: 150px;
+    width: 180px;
+    padding-top: 20px;
+    padding-right: 10px;
+    float:left;
+}
+
+.content {
+    flex-flow: inherit;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    color:#777777;
+}
+
+.footer {
+    background-color: #666666;
+    height: 60px;
+    border-top-style: solid;
+    border-top-color: #4aaaa5;
+    border-top-width: 5px;
+}
+
+footer {
+    text-align: center;
+    color: white;
+    padding-top: 40px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*Portfolio.html
+portfolio class names are linked to contact page class names except for items below */
+
+.portfolio-container {
+    clear:both;
+    overflow: auto;
+    border-style: solid;
+    border-color:#dddddd;
+    border-width: 198px;
+    border-top-width: 20px;
+    border-bottom-width: 20px;
+    padding: 20px;
+}
+
+.portfolio-content {
+
+}
+
+.scratch-game {
+
+}
+
+.website {
+    float: left;
+}
+
+.hangman {
+
+}
+
+.widget {
+    float: left;
+}
+
+
+
+
+/*Contact.html*/
+
+#header {
+    padding:0px;
+   border-bottom-style: solid;
+   border-bottom-width: 2px;
+   border-bottom-color: #777777;
+   height:68px;
+}
+
+#contact-name {
+    background-color: #4aaaa5;
+    color:white;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: 16px;
+    width:25%;
+    padding:1px;
+    text-align: center;
+    float:left;
+    margin-left: 20%;
+}
+
+#content-pages {
+    font-size: 15px;
+    float:right;
+    margin-right:20%;
+    padding:25px;
+}
+
+.contact-container {
+    clear:both;
+    overflow: auto;
+    border-style: solid;
+    border-color:#dddddd;
+    border-width: 198px;
+    border-top-width: 20px;
+    border-bottom-width: 100px;
+    padding: 20px;
+}
+
+.contact-tag {
+    color:#4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    padding-left: 5px; 
+    padding-bottom: 5px; 
+    padding-top: 0px;
+    border-bottom-style: solid;
+    border-bottom-color: #777777;
+    border-bottom-width: 2px;  
+}
+
+form {
+    padding-top:15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777777;
+
+}
+
+.name-box {
+    width: 100%;
+    height: 20px;
+}
+
+.email-box {
+    width: 100%;
+    height: 20px;
+}
+
+.message-box {
+    width: 100%;
+    height: 100px;
+}
+
+.submit-box {
+    background-color: #4aaaa5;
+    color:white;
+    height: 30px;
+    width: 70px;
+}
+
+
+
+
